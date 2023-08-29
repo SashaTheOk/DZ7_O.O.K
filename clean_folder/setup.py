@@ -7,4 +7,4 @@ setup(name='clean_folder',
       author_email='nomail@nomail.com',
       packages=find_namespace_packages(),
       entry_points={'console_scripts': ['clean_folder=clean_folder.main:start']}
-)
+      )
